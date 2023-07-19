@@ -1,0 +1,8 @@
+D:\ps\ps10\ps10\obj\Debug\ps10.csproj.AssemblyReference.cache
+D:\ps\ps10\ps10\obj\Debug\ps10.csproj.SuggestedBindingRedirects.cache
+D:\ps\ps10\ps10\obj\Debug\ps10.csproj.CoreCompileInputs.cache
+D:\ps\ps10\ps10\bin\Debug\ps10.exe.config
+D:\ps\ps10\ps10\bin\Debug\ps10.exe
+D:\ps\ps10\ps10\bin\Debug\ps10.pdb
+D:\ps\ps10\ps10\obj\Debug\ps10.exe
+D:\ps\ps10\ps10\obj\Debug\ps10.pdb
